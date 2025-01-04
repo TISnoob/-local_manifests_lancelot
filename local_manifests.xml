@@ -4,17 +4,17 @@
     <project name="crdroidandroid/android_device_xiaomi_lancelot" 
              path="device/xiaomi/lancelot" 
              remote="github" 
-             revision="14.0" />
+             revision="15.0" />
 
     <!-- Kernel source -->
-    <project name="xiaomi-mtk/android_kernel_xiaomi_mt6768" 
+    <project name="smlinux/kernel_lancelot" 
              path="kernel/xiaomi/mt6768" 
              remote="github" 
-             revision="lineage-20.0" />
+             revision="master" />
 
     <!-- Vendor blobs -->
-    <project name="TheMuppets/proprietary_vendor_xiaomi" 
+    <project name="crdroidandroid/proprietary_vendor_xiaomi_lancelot" 
              path="vendor/xiaomi/lancelot" 
              remote="github" 
-             revision="lineage-20.0" />
+             revision="14.0" />
 </manifest>
