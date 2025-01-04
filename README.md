@@ -6,4 +6,4 @@ This repository contains local manifests to build custom ROMs for the Xiaomi Red
 
 1. Clone this repository into `.repo/local_manifests`:
    ```bash
-   git clone https://github.com/yourusername/local_manifests_lancelot.git .repo/local_manifests
+   git clone https://github.com/TISnoob/local_manifests_lancelot.git .repo/local_manifests
