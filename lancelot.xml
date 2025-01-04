@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device tree -->
+    <project name="crdroidandroid/android_device_xiaomi_lancelot" 
+             path="device/xiaomi/lancelot" 
+             remote="github" 
+             revision="14.0" />
+
+    <!-- Kernel source -->
+    <project name="xiaomi-mtk/android_kernel_xiaomi_mt6768" 
+             path="kernel/xiaomi/mt6768" 
+             remote="github" 
+             revision="lineage-20.0" />
+
+    <!-- Vendor blobs -->
+    <project name="TheMuppets/proprietary_vendor_xiaomi" 
+             path="vendor/xiaomi/lancelot" 
+             remote="github" 
+             revision="lineage-20.0" />
+</manifest>
